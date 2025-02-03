@@ -57,10 +57,7 @@ O frontend estará disponível na porta **5713** por padrão.
 ## 💡 Funcionalidades
 - Consulta de preços de criptomoedas em tempo real
 - Conversão de moedas utilizando dados do Banco Central do Brasil
-- Interface responsiva e intuitivo
-
-## 📚 Licença
-Este projeto está licenciado sob a MIT License. 
+- Interface responsiva e intuitivo 
 
 ---
 **Desenvolvido por [Ricardo](https://github.com/RLC02)** 🚀
