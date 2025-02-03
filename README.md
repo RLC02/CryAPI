@@ -4,7 +4,7 @@
 
 # CryAPI 
 
-CryAPI é uma plataforma inovadora que combina um backend poderoso, desenvolvido com Java Spring Boot, e um frontend moderno e responsivo, construído com React.js e estilizado com Tailwind CSS. O projeto integra de forma inteligente as APIs CoinCap e BCB, permitindo a obtenção de informações em tempo real sobre criptomoedas e cotações de moedas. Com essa abordagem, o CryAPI oferece uma solução eficiente, ágil e acessível para usuários que buscam acompanhar o mercado financeiro com precisão.
+CryAPI é uma plataforma inovadora que combina um backend, desenvolvido com Java Spring, e um frontend moderno e responsivo, construído com React e estilizado com Tailwind CSS. O projeto integra de forma inteligente as APIs CoinCap e BCB, permitindo a obtenção de informações em tempo real sobre criptomoedas e cotações de moedas. Com essa abordagem, o CryAPI oferece uma solução eficiente, ágil e acessível para usuários que buscam acompanhar o mercado financeiro com precisão.
 
 ---
 
